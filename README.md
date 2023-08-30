@@ -17,4 +17,20 @@ Features:
 
 ## Example Output
 
+### Sphere Reflection
+![reflection](output/reflection.png)
 
+### Spheres
+![spheres](output/spheres.png)
+
+### OBJ File
+![head_look_up](output/head_look_up.png)
+
+### Cylinder
+![cylinder](output/cylinder.png)
+
+### Refraction
+![refraction](output/refraction.png)
+
+### Low Resolution Cube
+![cube_low_res](output/cube_low_res.png)
